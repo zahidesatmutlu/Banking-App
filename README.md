@@ -1,6 +1,6 @@
 # Banking App
 
-- Banking App Quiz using [SQLite](https://www.sqlite.org/index.html)!
+- Banking App using [SQLite](https://www.sqlite.org/index.html)!
 
 ## Overview
 
